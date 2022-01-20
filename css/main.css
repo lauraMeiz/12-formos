@@ -1,0 +1,44 @@
+body,
+body * {
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.Container {
+  display: inline-block;
+  width: 800px;
+  background-color: cornflowerblue;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.Container-block {
+  padding: 50px;
+}
+.Sign-in {
+  background-color: aliceblue;
+  width: 30%;
+  float: left;
+  margin-left: 3%;
+  position: relative;
+}
+.Sign-up {
+  background-color: antiquewhite;
+  width: 30%;
+  float: left;
+  margin-left: 3%;
+}
+.Forgot {
+  background-color: bisque;
+  width: 30%;
+  float: left;
+  margin-left: 3%;
+}
