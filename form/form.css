@@ -1,4 +1,6 @@
-.form-row {
+.form {
   width: 100%;
   float: left;
+  border-bottom: grey;
+  border-top: none;
 }
