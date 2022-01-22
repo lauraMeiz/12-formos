@@ -1,6 +1,11 @@
 .form {
   width: 100%;
+}
+.form > .form-row {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.form-check {
   float: left;
-  border-bottom: grey;
-  border-top: none;
+  margin-bottom: 10px;
 }
