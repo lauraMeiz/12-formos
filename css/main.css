@@ -43,7 +43,7 @@ body {
 }
 
 .Container-block {
-  background-color: aliceblue;
+  background-color: #ffffff;
   width: 30%;
   float: left;
   margin-left: 1.5%;
@@ -71,4 +71,8 @@ body {
 }
 .Container-block .title {
   padding-bottom: 20px;
+}
+
+.question {
+  text-align: left;
 }
