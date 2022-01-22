@@ -21,6 +21,13 @@
 .form-check > a {
   float: right;
   margin-left: 20px;
+  color: grey;
+  font-size: 11px;
+  text-decoration: none;
+}
+.form-check label {
+  font-size: 11px;
+  color: grey;
 }
 .form-button button {
   margin-top: 20px;

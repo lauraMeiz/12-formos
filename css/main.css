@@ -66,10 +66,12 @@ body {
 }
 
 .Container-block > .intro {
-  font-size: 13px;
-  line-height: 1em;
+  display: inline-block;
+  font-size: 10px;
+  line-height: 1.5em;
   padding-top: 0px;
   padding-bottom: 30px;
+  color: grey;
 }
 .Container-block .title {
   padding-bottom: 20px;
