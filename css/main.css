@@ -70,13 +70,13 @@ body {
   font-size: 10px;
   line-height: 1.5em;
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 80px;
   color: grey;
 }
-.Container-block .title {
-  padding-bottom: 20px;
+.Container-block:last-child > .intro {
+  padding-bottom: 120px;
 }
 
-.question {
-  text-align: center;
+.Container-block .title {
+  padding-bottom: 20px;
 }

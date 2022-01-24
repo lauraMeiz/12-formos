@@ -6,9 +6,8 @@
   margin-bottom: 5px;
 }
 .form-check {
-  margin-bottom: 15px;
-}
-.form-check > input {
+  margin-bottom: 90px;
+  margin-top: 20px;
 }
 
 .form > .form-row > input {
@@ -29,8 +28,9 @@
   font-size: 11px;
   color: grey;
 }
+
 .form-button button {
-  margin-top: 20px;
+  margin-top: 50px;
 }
 .form-button {
   text-align: center;
@@ -62,4 +62,33 @@ button {
     rgba(99, 108, 230, 1) 100%,
     rgba(110, 88, 244, 1) 100%
   );
+}
+.question {
+  font-size: 14px;
+  color: grey;
+  padding-top: 30px;
+  text-align: center;
+}
+.question-forgot {
+  padding-top: 175px;
+  font-size: 14px;
+  color: grey;
+  text-align: center;
+}
+
+.form-button > a {
+  font-size: 13px;
+  text-decoration: none;
+  color: #8f54ea;
+}
+.form-button > .Forgot {
+  margin-top: 20px;
+}
+span {
+  font-size: 13px;
+  color: grey;
+}
+
+.form-button .Sign-up {
+  margin-top: 105px;
 }
