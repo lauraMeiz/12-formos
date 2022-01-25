@@ -11,12 +11,24 @@
 }
 
 .form > .form-row > input {
-  width: 100%;
+  width: 90%;
   font-size: 13px;
   line-height: 2em;
   border: none;
   border-bottom: 2px solid #8f54ea;
 }
+
+.fa::before {
+  content: "@";
+  background: white;
+  color: #8f54ea;
+  min-width: 10%;
+  text-align: center;
+  padding-bottom: 9px;
+  float: left;
+  border-bottom: 2px solid #8f54ea;
+}
+
 .form-check > a {
   float: right;
   margin-left: 20px;
