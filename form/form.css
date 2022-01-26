@@ -4,6 +4,7 @@
 .form > .form-row {
   width: 100%;
   margin-bottom: 5px;
+  border-bottom: 2px solid #8f54ea;
 }
 .form-check {
   margin-bottom: 90px;
@@ -15,7 +16,6 @@
   font-size: 13px;
   line-height: 2em;
   border: none;
-  border-bottom: 2px solid #8f54ea;
 }
 
 .fa::before {
@@ -24,9 +24,8 @@
   color: #8f54ea;
   min-width: 10%;
   text-align: center;
-  padding-bottom: 9px;
+  padding-bottom: 8px;
   float: left;
-  border-bottom: 2px solid #8f54ea;
 }
 
 .form-check > a {
